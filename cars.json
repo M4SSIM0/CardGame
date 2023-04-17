@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla Model S",
+        "hp": 532,
+        "weight": 3000,
+        "length": 196,
+        "kw": 397,
+        "topspeed": 155,
+        "acceleration": 2.3,
+        "price": 50000
+    },
+    {
+        "id": 2,
+        "name": "Porsche Taycan",
+        "hp": 616,
+        "weight": 2000,
+        "length": 196,
+        "kw": 460,
+        "topspeed": 161,
+        "acceleration": 2.8,
+        "price": 250000
+    },
+    {
+        "id": 3,
+        "name": "Audi RS e-tron GT",
+        "hp": 637,
+        "weight": 1500,
+        "length": 196,
+        "kw": 475,
+        "topspeed": 155,
+        "acceleration": 3.3,
+        "price": 300000
+    },
+    {
+        "id": 4,
+        "name": "Lucid Air",
+        "hp": 1080,
+        "weight": 902,
+        "length": 196,
+        "kw": 800,
+        "topspeed": 200,
+        "acceleration": 2.5,
+        "price": 150000
+    },
+    {
+        "id": 5,
+        "name": "Mercedes EQS",
+        "hp": 516,
+        "weight": 2500,
+        "length": 206,
+        "kw": 380,
+        "topspeed": 180,
+        "acceleration": 4.4,
+        "price": 121000
+    },
+    {
+        "id": 6,
+        "name": "BMW iX",
+        "hp": 530,
+        "weight": 2500,
+        "length": 196,
+        "kw": 390,
+        "topspeed": 180,
+        "acceleration": 4.4,
+        "price": 141000
+    },
+    {
+        "id": 7,
+        "name": "Jaguar I-Pace",
+        "hp": 394,
+        "weight": 2500,
+        "length": 196,
+        "kw": 290,
+        "topspeed": 200,
+        "acceleration": 4.8,
+        "price": 100000
+    },
+    {
+        "id": 8,
+        "name": "Audi e-tron",
+        "hp": 402,
+        "weight": 2500,
+        "length": 196,
+        "kw": 300,
+        "topspeed": 200,
+        "acceleration": 5.5,
+        "price": 100000
+    },
+    {
+        "id": 9,
+        "name": "Porsche Taycan Turbo S",
+        "hp": 750,
+        "weight": 2000,
+        "length": 196,
+        "kw": 560,
+        "topspeed": 161,
+        "acceleration": 2.8,
+        "price": 250000
+    },
+    {
+        "id": 10,
+        "name": "Lexus LC 500h",
+        "hp": 354,
+        "weight": 2500,
+        "length": 196,
+        "kw": 260,
+        "topspeed": 200,
+        "acceleration": 5.5,
+        "price": 100000
+    },
+    {
+        "id": 11,
+        "name": "Lexus LFA",
+        "hp": 552,
+        "weight": 2500,
+        "length": 196,
+        "kw": 410,
+        "topspeed": 200,
+        "acceleration": 3.7,
+        "price": 100000
+    },
+    {
+        "id": 12,
+        "name": "Bugatti Chiron",
+        "hp": 1500,
+        "weight": 2500,
+        "length": 196,
+        "kw": 1100,
+        "topspeed": 420,
+        "acceleration": 2.4,
+        "price": 1000000
+    }
+
+]
